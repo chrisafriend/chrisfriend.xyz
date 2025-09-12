@@ -1,14 +1,16 @@
 {
-  "name": "vite-starter",
+  "name": "coming-soon-3d",
+  "version": "1.0.0",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "three": "^0.158.0"
+  },
   "devDependencies": {
-    "vite": "^7.1.4"
+    "vite": "^4.0.0"
   }
 }
